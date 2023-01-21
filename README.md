@@ -159,10 +159,10 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![OUTPUT](./calc.png)
+![OUTPUT](images/calc.png)
 
 ## HTML Validation
-![VALID](./valid.png)
+![VALID](images/valid.png)
 
 ## Result:
 The program for designing simple calculator using javascript is executed successfully.
